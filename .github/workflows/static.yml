@@ -15,22 +15,21 @@
 	<br>
 	<h2>Catherine Wolfram</h2>
 	<p>
-        I am an NSF postdoctoral fellow and Gibbs Assistant Professor at Yale University. In May 2024 I graduated from MIT with a PhD in math, advised by <a href="https://math.mit.edu/~sheffield/">Scott Sheffield</a>.  Before that, I was an undergraduate at the University of Chicago. I'm interested in various topics related to complex analysis, probability, and geometry. My CV is here. 
-        <br> 
+        I am an NSF postdoctoral fellow and Gibbs Assistant Professor at Yale University. In May 2024 I graduated from MIT with a PhD in math, advised by <a href="https://math.mit.edu/~sheffield/">Scott Sheffield</a>.  Before that, I was an undergraduate at the University of Chicago. I'm interested in various topics related to complex analysis, probability, and geometry. More information can be found in my CV here.  
         <br>
-       My email address is: catherine.wolfram at yale dot edu. (Note: after January 2025, I will not receive emails sent to my old MIT address.)
-        <br> <br>
-       
+        <br>
+        My email address is: catherine.wolfram at yale dot edu. (Note: after January 2025, I will not receive emails sent to my old MIT address.)
       <br>	 
 	
       </td> 
       <td width=“5%" valign="top" align="right"> 
-	<img src="camino_photo.jpg" alt=" " width="340">
+	<img src="photo.png" alt=" " width="340">
       </td>
     </tr>
   </tbody>
+</table>
 
-  <a id="papers"></a><table width="95%" cellspacing="20" align="center">
+<a id="papers"></a><table width="95%" cellspacing="20" align="center">
     <tbody>
     <tr>
     <td width="95%" valign="top" align="left"> 
@@ -44,18 +43,28 @@
 </li>
 </ol>
 </tbody>
+</table>
 
+<a id="talks"></a><table width="95%" cellspacing="20" align="center">
     <tbody>
     <tr>
     <td width="95%" valign="top" align="left"> 
 <h2>Talks and travel</h2>
+
 <ul>
     <li>University of Michigan probability seminar, February 19, 2025</li>
+</ul>
+
+Some materials from a couple past talks:
+<ul>
+    <li>Slies on 3D dimers: [<a href="https://math.mit.edu/~wolframc/Paris_talk-4.pdf">slides</a>]</li>
+    <li>Slides on shears:  [<a href="https://math.mit.edu/~wolframc/shears_talk_3.pdf">slides</a>]</li>
 </ul>
 
 For videos of 3D dimer simulation slices featured in some of my talks, see <a href="https://github.com/catwolfram/3d-dimers">here</a>.
 
 </tbody>
+</table>
 
 
 <a id="pictures"></a><table width="95%" cellspacing="20" align="center">
@@ -67,11 +76,9 @@ For videos of 3D dimer simulation slices featured in some of my talks, see <a hr
 
     </table>
 <hr noshade="noshade">
-</body>
-<a href="https://accessibility.mit.edu">Accessibility</a> 
-</tbody>
 
 
 
 </body>
 </html>
+
