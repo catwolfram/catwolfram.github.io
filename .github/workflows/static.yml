@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+<title>
+    Catherine Wolfram
+</title>
+</head>
+<body>
+
+<table width="95%" cellspacing="20" align="center">
+  <tbody>
+    <tr>
+      <td width="50%" valign="top" align="left">
+	<br>
+	<h2>Catherine Wolfram</h2>
+	<p>
+        I am an NSF postdoctoral fellow and Gibbs Assistant Professor at Yale University. In May 2024 I graduated from MIT with a PhD in math, advised by <a href="https://math.mit.edu/~sheffield/">Scott Sheffield</a>.  Before that, I was an undergraduate at the University of Chicago. I'm interested in various topics related to complex analysis, probability, and geometry. My CV is here. 
+        <br> 
+        <br>
+       My email address is: catherine.wolfram at yale dot edu. (Note: after January 2025, I will not receive emails sent to my old MIT address.)
+        <br> <br>
+       
+      <br>	 
+	
+      </td> 
+      <td width=“5%" valign="top" align="right"> 
+	<img src="camino_photo.jpg" alt=" " width="340">
+      </td>
+    </tr>
+  </tbody>
+
+  <a id="papers"></a><table width="95%" cellspacing="20" align="center">
+    <tbody>
+    <tr>
+    <td width="95%" valign="top" align="left"> 
+    <h2>Papers</h2>    
+<ol>
+<li>
+    (with Nishant Chandgotia, Scott Sheffield) Large deviations for the 3D dimer model (2023). [<a href="https://arxiv.org/abs/2304.08468">arxiv</a>] [<a href="https://math.mit.edu/~wolframc/3ddimers.pdf">pdf</a>]
+</li>
+<li>
+    (with Dragomir Saric, Yilin Wang) Circle homeomorphisms with square summable diamond shears. <strong>Int. Math. Res. Not.</strong> (IMRN) Vol. 2024, 17 (2024). [<a href="https://arxiv.org/abs/2211.11497">arxiv</a>] [<a href="https://math.mit.edu/~wolframc/diamond-shears.pdf">pdf</a>]
+</li>
+</ol>
+</tbody>
+
+    <tbody>
+    <tr>
+    <td width="95%" valign="top" align="left"> 
+<h2>Talks and travel</h2>
+<ul>
+    <li>University of Michigan probability seminar, February 19, 2025</li>
+</ul>
+
+For videos of 3D dimer simulation slices featured in some of my talks, see <a href="https://github.com/catwolfram/3d-dimers">here</a>.
+
+</tbody>
+
+
+<a id="pictures"></a><table width="95%" cellspacing="20" align="center">
+    <tbody>
+    <tr>
+    <td width="95%" valign="top" align="left"> 
+        <h2>Some pictures</h2>
+<img src="farey-dual copy.png" alt=" " width="100"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <img src="infinitycell-new-3.png" alt=" " width="300"> &nbsp <img src="v3-extreme3D.png" alt=" " width="250"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="aztechedron-400-graphic copy.png" alt=" " width="110">&nbsp&nbsp&nbsp&nbsp <img src="200top.png" alt=" " width="100">&nbsp&nbsp&nbsp&nbsp&nbsp<img src="slice200.png" alt=" " width="100">
+
+    </table>
+<hr noshade="noshade">
+</body>
+<a href="https://accessibility.mit.edu">Accessibility</a> 
+</tbody>
+
+
+
+</body>
+</html>
